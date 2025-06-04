@@ -17,14 +17,14 @@ Inspired by *MJSynth*, *SynthText* and [Belval/TextRecognitionDataGenerator](htt
 ***TCSynth* dataset includes 21,535,590 synthetic text images.**
 
 - Download: 
-    - [TCSynth LMDB Format (Recommanded)](https://storage.googleapis.com/esun-ai/TCSynth.tar.gz) [21 GB (54 GB after untaring)]
-    - [TCSynth Raw Format](https://storage.googleapis.com/esun-ai/TCSynth_raw.tar.gz) [18 GB (85 GB after untaring)]
+    - [TCSynth LMDB Format (Recommanded)](https://rd-tcsynth.swlab.cloud/download?filename=TCSynth.tar.gz) [21 GB (54 GB after untaring)]
+    - [TCSynth Raw Format](https://rd-tcsynth.swlab.cloud/download?filename=TCSynth_raw.tar.gz) [18 GB (85 GB after untaring)]
 
 ***TCSynth-VAL* dataset includes 6,000 synthetic text images for validation.**
 
 - Download: 
-    - [TCSynth-VAL LMDB Format (Recommanded)](https://storage.googleapis.com/esun-ai/TCSynth-VAL.tar.gz)
-    - [TCSynth-VAL Raw Format](https://storage.googleapis.com/esun-ai/TCSynth-VAL_raw.tar.gz)
+    - [TCSynth-VAL LMDB Format (Recommanded)](https://rd-tcsynth.swlab.cloud/download?filename=TCSynth-VAL.tar.gz)
+    - [TCSynth-VAL Raw Format](https://rd-tcsynth.swlab.cloud/download?filename=TCSynth-VAL_raw.tar.gz)
 
 ### LMDB Format
 
@@ -104,7 +104,7 @@ Our *TC-STR 7k-word* dataset collects about 1,554 images from Google image searc
 
 ***TC-STR 7k-word* dataset includes a training set of 3,837 text images and a testing set of 3,706 images.**
 
-- Download: [TC-STR.tar.gz](https://storage.googleapis.com/esun-ai/TC-STR.tar.gz)
+- Download: [TC-STR.tar.gz](https://rd-tcsynth.swlab.cloud/download?filename=TC-STR.tar.gz)
 
 After untaring,
 
